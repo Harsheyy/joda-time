@@ -26,6 +26,7 @@ import junit.framework.TestSuite;
  * 
  * @author Stephen Colebourne
  */
+@ignore
 public class TestAll extends TestCase {
 
     public TestAll(String testName) {
